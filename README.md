@@ -1,5 +1,5 @@
 # Drawing-Game-PyGame-
-A simple drawing game, created with the PyGame library.
+A simple <b><i>open source</i></b> drawing game, created with the PyGame library.
 
 ### Setup
 
